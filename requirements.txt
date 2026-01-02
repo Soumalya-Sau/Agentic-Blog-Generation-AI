@@ -1,0 +1,6 @@
+streamlit
+langgraph
+langchain
+langchain-core
+groq
+pydantic
